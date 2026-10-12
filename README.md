@@ -77,4 +77,4 @@ The dashboard has four pages: **Summary**, **Spending Trends**, **Campaign Compa
 
 ## Data source
 
-U.S. Federal Election Commission (FEC) filings for the 2023–24 election cycle. Campaign spending is Schedule B operating expenditures; outside spending is Schedule E independent expenditures. The data shows how spending lined up, not what it did to votes.
+U.S. Federal Election Commission (FEC) filings for the 2023–24 election cycle. Campaign spending is Schedule B operating expenditures; outside spending is Schedule E independent expenditures.
