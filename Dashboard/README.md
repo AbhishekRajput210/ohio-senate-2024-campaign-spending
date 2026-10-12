@@ -5,9 +5,9 @@ Interactive dashboard for the Ohio 2024 U.S. Senate race, Sherrod Brown (D) vs B
 | Page | Question |
 |---|---|
 | Summary | Did outside groups offset Brown's campaign spending advantage? (key finding and headline numbers) |
-| Q1 · Spending Trends | How does campaign spending change over the 2023-24 cycle? |
-| Q2 · Campaign Comparison | How do the two campaigns compare in level, categories, communication, timing and vendors? |
-| Q3 · Outside Groups | Extension: how much did outside groups add for each side? |
+| Spending Trends | How does campaign spending change over the 2023-24 cycle? |
+| Campaign Comparison | How do the two campaigns compare in level, categories, communication, timing and vendors? |
+| Outside Spending | Extension: how much did outside groups add for each side? |
 
 Filters at the top: highlight candidate, spending category, campaign committee (outside group on Q3), include affiliated committees. Each chart has a *Download CSV* button for its table.
 
