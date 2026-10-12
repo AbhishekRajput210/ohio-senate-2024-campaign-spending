@@ -1,0 +1,9 @@
+dataset,exclude_reason,rows,dollars
+campaign spending,memo entry (already counted in parent payment),4783,6446293.66
+campaign spending,replaced by a newer amended filing,23,230.03
+outside spending,memo entry,80,3551590.02
+outside spending,same payment reported under both candidates,170,7010861.43
+outside spending,wrong candidate (mis-tagged row),8,236777.02000000002
+campaign spending,FLAG ONLY: negative amount (kept),23,-10009.340000000002
+campaign spending,FLAG ONLY: possible repeat (kept),45,53195.0
+outside spending,FLAG ONLY: possible repeat (kept),29,494570.9199999999

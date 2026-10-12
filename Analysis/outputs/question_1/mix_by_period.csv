@@ -1,0 +1,31 @@
+candidate,phase,spending_type,amount,share_pct
+Brown,2023,Fundraising costs,3717282.99,38.6323
+Brown,2023,"Staff, overhead and other",3017282.01,31.3575
+Brown,2023,Voter communication,2887638.73,30.0102
+Brown,"Jan 1 - Mar 19, 2024 (before the primary)",Fundraising costs,482533.95,5.0857
+Brown,"Jan 1 - Mar 19, 2024 (before the primary)","Staff, overhead and other",1312069.06,13.8286
+Brown,"Jan 1 - Mar 19, 2024 (before the primary)",Voter communication,7693455.61,81.0857
+Brown,"Mar 20 - Aug 31, 2024",Fundraising costs,89339.0,0.2361
+Brown,"Mar 20 - Aug 31, 2024","Staff, overhead and other",4046646.6,10.6925
+Brown,"Mar 20 - Aug 31, 2024",Voter communication,33709579.3,89.0714
+Brown,"Sep 1 - Nov 5, 2024 (final stretch)",Fundraising costs,51672.16,0.1346
+Brown,"Sep 1 - Nov 5, 2024 (final stretch)","Staff, overhead and other",3277724.63,8.5405
+Brown,"Sep 1 - Nov 5, 2024 (final stretch)",Voter communication,35049306.81,91.3249
+Brown,After Election Day,Fundraising costs,16000.0,0.7526
+Brown,After Election Day,"Staff, overhead and other",1227454.58,57.7339
+Brown,After Election Day,Voter communication,882599.12,41.5135
+Moreno,2023,Fundraising costs,523440.35,9.9653
+Moreno,2023,"Staff, overhead and other",985614.17,18.7643
+Moreno,2023,Voter communication,3743556.4,71.2704
+Moreno,"Jan 1 - Mar 19, 2024 (before the primary)",Fundraising costs,109797.87,3.0333
+Moreno,"Jan 1 - Mar 19, 2024 (before the primary)","Staff, overhead and other",370943.69,10.2478
+Moreno,"Jan 1 - Mar 19, 2024 (before the primary)",Voter communication,3139011.99,86.7189
+Moreno,"Mar 20 - Aug 31, 2024",Fundraising costs,350592.65,5.7819
+Moreno,"Mar 20 - Aug 31, 2024","Staff, overhead and other",1367954.74,22.5602
+Moreno,"Mar 20 - Aug 31, 2024",Voter communication,4345025.75,71.6578
+Moreno,"Sep 1 - Nov 5, 2024 (final stretch)",Fundraising costs,110606.09,1.091
+Moreno,"Sep 1 - Nov 5, 2024 (final stretch)","Staff, overhead and other",892699.13,8.8055
+Moreno,"Sep 1 - Nov 5, 2024 (final stretch)",Voter communication,9134634.93,90.1035
+Moreno,After Election Day,Fundraising costs,37498.61,5.0196
+Moreno,After Election Day,"Staff, overhead and other",499577.19,66.874
+Moreno,After Election Day,Voter communication,209967.0,28.1064

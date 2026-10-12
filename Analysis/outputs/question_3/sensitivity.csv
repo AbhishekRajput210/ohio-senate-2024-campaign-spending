@@ -1,0 +1,4 @@
+scenario,campaign_lead_m,net_outside_help_m,net_outside_pct_of_lead,combined_lead_year_end_m,lowest_point_m,lowest_point_date,days_moreno_side_ahead,campaign_rows_removed,outside_rows_removed
+Base case (used in this notebook),71.63966399,68.36583474999999,95.4301443395142,3.2738292400000244,-10.031282039999978,2024-10-15,36,0,0
+Without possible_repeat rows,71.59700399,68.38995050999998,95.52068759686094,3.207053480000019,-9.848557799999982,2024-10-15,36,10,29
+Affiliated committees added to campaign totals,70.34342417,68.36583474999999,97.18866483493788,1.977589420000026,-8.539480959999976,2024-10-15,33,0,0

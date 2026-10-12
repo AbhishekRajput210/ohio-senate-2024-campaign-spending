@@ -1,0 +1,89 @@
+check,expected,actual,pass_fail
+Brown campaign total ($),97460584.55,97460584.55,PASS
+Moreno campaign total ($),25820920.56,25820920.56,PASS
+Total gap ($),71639663.99,71639663.99,PASS
+Brown total with affiliated committees ($),100467255.13,100467255.13,PASS
+Moreno total with affiliated committees ($),30123830.96,30123830.959999997,PASS
+Brown: category dollars add up to total ($),97460584.55,97460584.55,PASS
+Brown: category % add up to 100,100.0,100.00000000000001,PASS
+Moreno: category dollars add up to total ($),25820920.56,25820920.560000002,PASS
+Moreno: category % add up to 100,100.0,100.0,PASS
+All 16 categories present,16.0,16.0,PASS
+No missing categories in the data,0.0,0.0,PASS
+No missing dates in the data,0.0,0.0,PASS
+All 8 quarters present,8.0,8.0,PASS
+"Gap in $M: TV, radio & other media",31.84,31.838733730000005,PASS
+Gap in $M: Digital advertising,22.42,22.42315667,PASS
+Gap in $M: Payroll & benefits,5.85,5.849807429999999,PASS
+Gap in $M: Fundraising costs,3.23,3.2248925299999995,PASS
+Gap in $M: Direct mail & printing,2.96,2.9606782500000004,PASS
+Gap in $M: Texting & phone,2.37,2.37158497,PASS
+Gap in $M: Processing & bank fees,2.33,2.32574475,PASS
+Gap bars add up to the total gap ($),71639663.99,71639663.99000001,PASS
+Brown communication ($M),80.22,80.22257957000001,PASS
+Moreno communication ($M),20.57,20.57219607,PASS
+Brown communication share (%),82.3,82.31284466475117,PASS
+Moreno communication share (%),79.7,79.67258960499277,PASS
+"Brown channel mix: TV, radio & other media (%)",60.4,60.370800876255096,PASS
+Brown channel mix: Digital advertising (%),30.3,30.283323199301606,PASS
+Brown channel mix: Direct mail & printing (%),5.6,5.590062678160276,PASS
+Brown channel mix: Texting & phone (%),3.7,3.656153025396912,PASS
+Brown: donut slices add up to 100%,100.0,100.0,PASS
+Brown: donut slices equal communication total ($),80222579.57000001,80222579.57000001,PASS
+Brown: quarterly communication adds up to communication total ($),80222579.57000001,80222579.57000001,PASS
+"Moreno channel mix: TV, radio & other media (%)",80.7,80.65390774782753,PASS
+Moreno channel mix: Digital advertising (%),9.1,9.094344491146977,PASS
+Moreno channel mix: Direct mail & printing (%),7.4,7.407153931524822,PASS
+Moreno channel mix: Texting & phone (%),2.7,2.729291992403221,PASS
+Moreno: donut slices add up to 100%,100.0,100.0,PASS
+Moreno: donut slices equal communication total ($),20572196.07,20572196.07,PASS
+Moreno: quarterly communication adds up to communication total ($),20572196.07,20572196.069999997,PASS
+Brown: donut chart values equal communication total ($),80222579.57000001,80222579.57000001,PASS
+Moreno: donut chart values equal communication total ($),20572196.07,20572196.07,PASS
+Grassroots Media paid by Brown ($M),46.9,46.90132404,PASS
+Grassroots Media share of Brown (%),48.1,48.12337649784802,PASS
+Strategic Media Placement paid by Moreno ($M),16.1,16.06871796,PASS
+Strategic Media Placement share of Moreno (%),62.2,62.231390715374246,PASS
+Brown: top-10 vendors paid is not more than total (1 = yes),1.0,1.0,PASS
+Moreno: top-10 vendors paid is not more than total (1 = yes),1.0,1.0,PASS
+Brown payments over $1M,30.0,30.0,PASS
+Moreno payments over $1M,6.0,6.0,PASS
+"Brown payments over $1M, % of his spending",44.8,44.792208113223346,PASS
+"Moreno payments over $1M, % of his spending",31.1,31.11507047679016,PASS
+Brown payments over $100K,143.0,143.0,PASS
+Moreno payments over $100K,35.0,35.0,PASS
+Brown median payment ($),996.0,996.0,PASS
+Moreno median payment ($),548.0,548.47,PASS
+Brown: size-band counts add up to payment count,2517.0,2517.0,PASS
+Brown: size-band dollars add up to total ($),97460584.55,97460584.55,PASS
+Moreno: size-band counts add up to payment count,2183.0,2183.0,PASS
+Moreno: size-band dollars add up to total ($),25820920.56,25820920.56,PASS
+Scatter has one dot per payment,4700.0,4700.0,PASS
+Brown: committee table = campaign + affiliated total ($),100467255.13,100467255.12999997,PASS
+Brown: campaign committees in committee table = campaign total ($),97460584.55,97460584.54999998,PASS
+Brown: affiliated committees in committee table = affiliated total ($),3006670.58,3006670.5800000005,PASS
+Moreno: committee table = campaign + affiliated total ($),30123830.96,30123830.96,PASS
+Moreno: campaign committees in committee table = campaign total ($),25820920.56,25820920.560000002,PASS
+Moreno: affiliated committees in committee table = affiliated total ($),4302910.399999999,4302910.4,PASS
+Committee chart $ bars add up to campaign + affiliated total ($),130591086.09,130591086.08999997,PASS
+Chart 2 Brown $M = table,0.0,0.0,PASS
+Chart 2 Moreno $M = table,0.0,0.0,PASS
+Chart 2 Brown % = table,0.0,0.0,PASS
+Chart 2 Moreno % = table,0.0,0.0,PASS
+Chart 4 gap bars = table,0.0,0.0,PASS
+Chart 3 left panel has all 16 categories,16.0,16.0,PASS
+Chart 6 plotted $ = table ($),100794775.64,100794775.63999997,PASS
+Chart 7 plotted $ = table ($),112551894.42999999,112551894.42999999,PASS
+Chart 8b plotted % of payments = table,200.0,200.0,PASS
+Chart 8b plotted % of dollars = table,200.00000000000003,200.0,PASS
+Chart 1 scorecard cards: 17 cards,17.0,17.0,PASS
+Chart file exists: 01_scorecard.html,1.0,1.0,PASS
+Chart file exists: 02_category_spending.html,1.0,1.0,PASS
+Chart file exists: 03_category_scatter.html,1.0,1.0,PASS
+Chart file exists: 04_brown_advantage.html,1.0,1.0,PASS
+Chart file exists: 05_communication_donuts.html,1.0,1.0,PASS
+Chart file exists: 06_communication_by_quarter.html,1.0,1.0,PASS
+Chart file exists: 07_top_vendors.html,1.0,1.0,PASS
+Chart file exists: 08a_payment_scatter.html,1.0,1.0,PASS
+Chart file exists: 08b_payment_size_bands.html,1.0,1.0,PASS
+Chart file exists: 09_committees.html,1.0,1.0,PASS

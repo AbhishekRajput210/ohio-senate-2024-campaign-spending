@@ -1,0 +1,104 @@
+check,expected,actual,pass_fail
+Brown campaign total ($),97460584.55,97460584.55,PASS
+Moreno campaign total ($),25820920.56,25820920.56,PASS
+Brown campaign lead ($),71639663.99,71639663.99,PASS
+Outside rows (count),1422,1422,PASS
+Outside total ($),286669882.57,286669882.57,PASS
+Outside helped Brown ($),109152024,109152023.91,PASS
+Outside helped Moreno ($),177517859,177517858.66,PASS
+Outside rows helping Brown,476,476,PASS
+Outside rows helping Moreno,946,946,PASS
+"Net outside help for Moreno ($M, 1 dp)",68.4,68.4,PASS
+"Share helped Moreno (%, whole number)",62,62,PASS
+"Share helped Brown (%, whole number)",38,38,PASS
+"Brown's side attack ($M, 1 dp)",85.6,85.6,PASS
+"Brown's side support ($M, 1 dp)",23.5,23.5,PASS
+"Moreno's side attack ($M, 1 dp)",108.6,108.6,PASS
+"Moreno's side support ($M, 1 dp)",68.9,68.9,PASS
+Brown's side attack % (whole number),78,78,PASS
+Moreno's side attack % (whole number),61,61,PASS
+"Brown's side total ($M, 1 dp)",206.6,206.6,PASS
+"Moreno's side total ($M, 1 dp)",203.3,203.3,PASS
+"Combined lead at year-end ($M, 1 dp)",3.3,3.3,PASS
+"Outside share of Brown's side (%, 1 dp)",52.8,52.8,PASS
+"Outside share of Moreno's side (%, 1 dp)",87.3,87.3,PASS
+"Combined lead End of 2023 ($M, 1 dp)",5.2,5.2,PASS
+"Combined lead 19 Mar 2024 ($M, 1 dp)",17.3,17.3,PASS
+"Combined lead 30 Jun 2024 ($M, 1 dp)",32.4,32.4,PASS
+"Combined lead 31 Aug 2024 ($M, 1 dp)",30.0,30.0,PASS
+"Combined lead 30 Sep 2024 ($M, 1 dp)",0.3,0.3,PASS
+"Combined lead Election Day ($M, 1 dp)",1.9,1.9,PASS
+"Lowest combined lead ($M, 1 dp)",-10.0,-10.0,PASS
+Lowest point date,2024-10-15,2024-10-15,PASS
+First day Moreno's side ahead,2024-09-24,2024-09-24,PASS
+Groups helping Brown,63,63,PASS
+Groups helping Moreno,30,30,PASS
+"Top 3 groups share, Brown's side (%, whole number)",80,80,PASS
+"Top 3 groups share, Moreno's side (%, whole number)",80,80,PASS
+"WinSenate ($M, 1 dp)",79.3,79.3,PASS
+"Senate Leadership Fund ($M, 1 dp)",70.4,70.4,PASS
+"Defend American Jobs ($M, 1 dp)",40.1,40.1,PASS
+"American Crossroads ($M, 1 dp)",31.1,31.1,PASS
+"AFP Action ($M, 1 dp)",15.2,15.2,PASS
+"Sep+Oct share of Moreno's-side outside money (%, whole number)",86,86,PASS
+"Sep+Oct share of Brown's-side outside money (%, whole number)",89,89,PASS
+"Brown's side: TV, radio & other media (%, 1 dp)",63.2,63.2,PASS
+"Brown's side: Digital advertising (%, 1 dp)",29.2,29.2,PASS
+"Brown's side: Canvassing & field (%, 1 dp)",5.3,5.3,PASS
+"Moreno's side: TV, radio & other media (%, 1 dp)",75.2,75.2,PASS
+"Moreno's side: Digital advertising (%, 1 dp)",14.6,14.6,PASS
+"Moreno's side: Direct mail & printing (%, 1 dp)",8.2,8.2,PASS
+Two donut slices add to total outside ($),286669882.57,286669882.57,PASS
+Stacked bar segments add to Brown's side total ($M),206.61260846,206.61260846,PASS
+Stacked bar segments add to Moreno's side total ($M),203.33877922,203.33877922,PASS
+Last point of the lead line = combined lead ($M),3.2738292399999795,3.2738292400000244,PASS
+Lead line has one point per day (731 days),731,731,PASS
+Monthly bars add to Brown's-side outside total ($),109152023.91,109152023.91000001,PASS
+Monthly bars add to Moreno's-side outside total ($),177517858.66,177517858.66000003,PASS
+Top 10 + all other groups = Brown's side outside total ($),109152023.91,109152023.91,PASS
+Top 3 + other groups donut = Brown's side outside total ($),109152023.91,109152023.91,PASS
+Support + attack = Brown's side outside total ($),109152023.91,109152023.91,PASS
+Category bar adds to 100% (Brown's side),100,100.0,PASS
+Category dollars = Brown's side outside total ($),109152023.91,109152023.91000001,PASS
+Group dots add to Brown's side outside total ($),109152023.91,109152023.90999998,PASS
+Group dot payments = Brown's side outside rows,476,476,PASS
+Top 10 + all other groups = Moreno's side outside total ($),177517858.66,177517858.66,PASS
+Top 3 + other groups donut = Moreno's side outside total ($),177517858.66,177517858.66,PASS
+Support + attack = Moreno's side outside total ($),177517858.66,177517858.66,PASS
+Category bar adds to 100% (Moreno's side),100,99.99999999999999,PASS
+Category dollars = Moreno's side outside total ($),177517858.66,177517858.66,PASS
+Group dots add to Moreno's side outside total ($),177517858.66,177517858.66,PASS
+Group dot payments = Moreno's side outside rows,946,946,PASS
+Missing dates (campaign + outside),0,0,PASS
+Missing categories (campaign + outside),0,0,PASS
+Missing side / tone in outside file,0,0,PASS
+Number of chart files saved,10,10,PASS
+Chart file exists: 01_scorecard.html,1,1,PASS
+Chart file exists: 02_who_helped_donut.html,1,1,PASS
+Chart file exists: 03_campaign_plus_outside.html,1,1,PASS
+Chart file exists: 04_lead_over_time.html,1,1,PASS
+Chart file exists: 05_outside_by_month.html,1,1,PASS
+Chart file exists: 06a_top_groups.html,1,1,PASS
+Chart file exists: 06b_concentration_donuts.html,1,1,PASS
+Chart file exists: 07_support_vs_attack.html,1,1,PASS
+Chart file exists: 08_communication_types.html,1,1,PASS
+Chart file exists: 09_group_dots.html,1,1,PASS
+Scorecard cards = saved table,570.0800513716388,570.0800513716388,PASS
+Who-helped donut = saved table,286669882.57,286669882.57,PASS
+Stacked bars (campaign) = saved table,123.28150511,123.28150510999998,PASS
+Stacked bars (outside) = saved table,286.66988257,286.66988257,PASS
+Stacked bars (totals) = saved table,409.95138768,409.95138768,PASS
+Lead line = saved table,6961.261404720004,6961.261404720004,PASS
+Monthly bars (Brown's side) = saved table,108.31174103,108.31174103,PASS
+Monthly bars (Moreno's side) = saved table,177.38557792,177.38557792,PASS
+Top groups (Brown's side) = saved table,102.20761234,102.20761234,PASS
+Top groups (Moreno's side) = saved table,175.77740641000003,175.77740641000003,PASS
+Concentration donut (Brown's side) = saved table,109152023.91,109152023.91,PASS
+Concentration donut (Moreno's side) = saved table,177517858.66,177517858.66,PASS
+Support/attack donut (Brown's side) = saved table,109152023.91,109152023.91,PASS
+Support/attack donut (Moreno's side) = saved table,177517858.66,177517858.66,PASS
+Category bars = saved table,199.99999999999997,199.99999999999997,PASS
+Dots x = payments (Brown's side) = saved table,476.0,476.0,PASS
+Dots y = total $M (Brown's side) = saved table,109.15202391,109.15202391,PASS
+Dots x = payments (Moreno's side) = saved table,946.0,946.0,PASS
+Dots y = total $M (Moreno's side) = saved table,177.51785866,177.51785866,PASS

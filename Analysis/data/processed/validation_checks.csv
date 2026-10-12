@@ -1,0 +1,11 @@
+check,result,detail
+Every committee has spending rows,PASS,9 of 9
+No missing dates (spending),PASS,0 missing
+No missing dates (outside spending),PASS,0 missing
+Spending dates inside 2023-2024,PASS,2023-01-01 to 2024-12-31
+Outside spending dates inside 2023-2024,PASS,
+No duplicate sub_id in included spending,PASS,0 duplicates
+No duplicate sub_id in included outside spending,PASS,
+Unclassified purposes under 2% of dollars,PASS,0.01% of dollars
+Dollars conserved (included + excluded = all),PASS,"137,037,609.78"
+Outside spending: only S / O indicators,PASS,
