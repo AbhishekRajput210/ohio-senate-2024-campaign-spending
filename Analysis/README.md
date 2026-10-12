@@ -1,31 +1,33 @@
-# Ohio 2024 U.S. Senate Race: Campaign Spending Analysis
+# Ohio 2024 Senate Race: Campaign Spending Analysis (Python)
 
-FEC campaign-finance data (2023-24 cycle) for Sherrod Brown (D, S6OH00163) and Bernie Moreno (R, S4OH00192).
+FEC campaign-finance data (2023-24 cycle) for Sherrod Brown (D) and Bernie Moreno (R). This folder holds the data preparation, validation and the three analysis notebooks. The dashboard is in `../Dashboard`.
 
-## Main findings
-- Brown's campaign spent $97.46M and Moreno's spent $25.82M (3.8 times as much).
-- Brown's lead grew from $10.2M at the March primary to $70.3M on Election Day. Both campaigns spent about 39% of their money in the last 66 days.
-- Both campaigns put about 80% of their money into voter communication. Media and digital ads explain 76% of the $71.64M gap.
-- Outside groups spent $286.67M. Spending that helps Moreno was $177.52M and spending that helps Brown was $109.15M, a net $68.37M for Moreno, about 95% of Brown's campaign lead.
-- Brown's side (campaign plus outside) ended $3.3M ahead. Moreno's side was ahead for 36 days (24 Sep to 30 Oct 2024).
+## Questions
+1. How does campaign spending change over the 2023-24 cycle?
+2. How do the two campaigns compare?
+3. (Extension) Did outside groups offset Brown's campaign spending advantage?
 
 ## Folders
 | Folder | Contents |
 |---|---|
-| `data/raw` | Original FEC files |
+| `data/raw` | Original FEC files (download date: [DD Month 2026]) |
 | `data/processed` | Clean files created by `src` |
-| `src` | Python scripts for data preparation and validation |
+| `src` | Data preparation and validation scripts |
 | `notebooks` | One notebook per question |
-| `outputs` | Tables (CSV) and interactive charts (HTML) for each question |
-| `docs` | Short notes on the data preparation and each question |
+| `outputs` | Tables (CSV) and charts (HTML) |
+| `docs` | Short notes on the data and each question |
 
 ## How to run
-1. `pip install -r requirements.txt`
-2. `python src/run_all.py` (prepares and checks the data)
-3. Run the notebooks in `notebooks/` from top to bottom. Each one saves its tables and charts in `outputs/`.
+```bash
+python -m venv .venv
+.venv\Scripts\activate          # macOS / Linux: source .venv/bin/activate
+pip install -r requirements.txt
+python src/run_all.py           # prepares and checks the data
+```
+Then run the notebooks in `notebooks/` from top to bottom.
 
-| Notebook | Question |
-|---|---|
-| `question_1_spending_trends.ipynb` | How does campaign spending change over the cycle? |
-| `question_2_campaign_comparison.ipynb` | How do the two campaigns compare? |
-| `question_3_outside_groups.ipynb` | Did outside groups offset Brown's spending advantage? |
+## Method
+- **Data:** FEC operating expenditures (campaign spending) and independent expenditures (outside spending), plus the FEC summary files used only to check totals.
+- **Cleaning:** memo rows removed, amended filings replaced by the newest, vendor names standardised, spending categories built from keyword rules, duplicates and negative amounts flagged.
+- **Validation:** ten data-quality checks plus recalculation checks in each notebook. Totals match the FEC's published totals within 0.03%.
+- **Limits:** dates are payment dates, party-coordinated spending is not included, and the analysis shows spending.
