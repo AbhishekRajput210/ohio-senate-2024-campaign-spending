@@ -33,4 +33,4 @@ Quality checks and a comparison with FEC published totals. Moreno's main committ
 - Dates are payment dates, not the dates ads aired.
 - Party-coordinated spending (Schedule F) was not downloaded.
 - Categories come from keywords in free text, so "Reimbursements & card payments" hides what was bought.
-- Figures are a snapshot of FEC data at download time. Download date: ____.
+- Figures are a snapshot of FEC data at download time.
